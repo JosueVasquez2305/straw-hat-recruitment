@@ -33,10 +33,9 @@ This project strictly adheres to semantic HTML5 standards and implements rigorou
 
 ## 📂 Project Structure
 
-'''text
+⁠```⁠text
 ├── index.html   # Main application markup with semantic structure
-└── styles.css   # Custom stylesheet containing theme tokens and pseudo-classes.
-'''
+└── styles.css   # Custom stylesheet containing theme tokens and pseudo-classes.```⁠
 
 
 📝 User Stories Met
