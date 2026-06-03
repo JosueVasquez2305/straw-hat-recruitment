@@ -33,14 +33,16 @@ This project strictly adheres to semantic HTML5 standards and implements rigorou
 
 ## 📂 Project Structure
 
+'''text
 ├── index.html   # Main application markup with semantic structure
 └── styles.css   # Custom stylesheet containing theme tokens and pseudo-classes.
+'''
 
 
 📝 User Stories Met
- [x] Implements a centralized structural ⁠.container⁠ and standard ⁠<form>⁠ node.
- [x] Includes explicit data fields for text (⁠#name⁠) and email (⁠#email⁠).
- [x] Features a custom selection matrix (⁠#position⁠) with a built-in default disabled fallback handler.
- [x] Groups radio-button controls within a dedicated ⁠.radio-group⁠ class structure sharing a unified namespace.
- [x] Integrates text-area blocks (⁠#message⁠) alongside semantic form labels linked via unique identifiers.
- [x] Leverages interactive user feedback actions including ⁠:hover⁠, ⁠:focus⁠, and dynamic border states.
+ - [x] Implements a centralized structural ⁠.container⁠ and standard ⁠<form>⁠ node.
+ - [x] Includes explicit data fields for text (⁠#name⁠) and email (⁠#email⁠).
+ - [x] Features a custom selection matrix (⁠#position⁠) with a built-in default disabled fallback handler.
+ - [x] Groups radio-button controls within a dedicated ⁠.radio-group⁠ class structure sharing a unified namespace.
+ - [x] Integrates text-area blocks (⁠#message⁠) alongside semantic form labels linked via unique identifiers.
+ - [x] Leverages interactive user feedback actions including ⁠:hover⁠, ⁠:focus⁠, and dynamic border states.
