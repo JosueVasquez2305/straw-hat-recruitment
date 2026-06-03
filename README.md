@@ -6,7 +6,7 @@ An interactive, responsive, and modern web form designed for pirate recruitment 
 
 ## 🚀 Live Demo
 You can view the live deployment of this project via GitHub Pages here:
-👉 **[INSERT YOUR GITHUB PAGES LINK HERE]**
+👉 **[https://josuevasquez2305.github.io/straw-hat-recruitment/]**
 
 ---
 
@@ -33,7 +33,6 @@ This project strictly adheres to semantic HTML5 standards and implements rigorou
 
 ## 📂 Project Structure
 
-```text
 ├── index.html   # Main application markup with semantic structure
 └── styles.css   # Custom stylesheet containing theme tokens and pseudo-classes.
 
