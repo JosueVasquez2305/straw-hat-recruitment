@@ -28,14 +28,13 @@ This project strictly adheres to semantic HTML5 standards and implements rigorou
 * **Form State Validation:** Built-in constraint validation utilizing HTML5 `required` flags paired directly with native CSS attribute testing (`red` / `green` boundary responses).
 * **Attribute Selectors:** Target-specific formatting applied via `input[type="radio"]` combined with adjacent sibling combinators (`+ label`) to create an interactive layout without bloated class structures.
 * **Structural Selectors:** Implementation of `input:first-of-type` to dynamically isolate and style user entry fields differently.
-
+ ## 📂 Project Structure
 ---
 
-## 📂 Project Structure
-
-⁠```⁠text
 ├── index.html   # Main application markup with semantic structure
-└── styles.css   # Custom stylesheet containing theme tokens and pseudo-classes.```⁠
+└── styles.css   # Custom stylesheet containing theme tokens and pseudo-classes
+
+
 
 
 📝 User Stories Met
